@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Antleo</title>
-    <link href="https://antleo-com.github.io/antleo-com.github.io/feed.xml" rel="self" />
-    <link href="https://antleo-com.github.io/antleo-com.github.io" />
-    <updated>2020-04-15T09:32:14+05:30</updated>
+    <link href="https://antleo.com/feed.xml" rel="self" />
+    <link href="https://antleo.com" />
+    <updated>2020-04-15T09:35:05+05:30</updated>
     <author>
         <name>Antleo</name>
     </author>
-    <id>https://antleo-com.github.io/antleo-com.github.io</id>
+    <id>https://antleo.com</id>
 
     <entry>
         <title>About</title>
         <author>
             <name>Antleo</name>
         </author>
-        <link href="https://antleo-com.github.io/antleo-com.github.io/about/"/>
-        <id>https://antleo-com.github.io/antleo-com.github.io/about/</id>
+        <link href="https://antleo.com/about/"/>
+        <id>https://antleo.com/about/</id>
 
         <updated>2020-04-13T10:46:04+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://antleo-com.github.io/antleo-com.github.io/media/posts/7/About-16-by-9_2.png" alt="" />
+                        <img src="https://antleo.com/media/posts/7/About-16-by-9_2.png" alt="" />
                     Nibzen is a niche branding and content development studio, specializing in thought leadership, content strategy, and visual branding. At Nibzen, inexhaustibly passionate writers and designers are hard at work crafting impactful creatives that amplify brand impact. The leitmotif of Nibzen’s communication artefacts is the masterful harmony of logic and creativity that arouses attention, interest, and desire, both in the hearts and the minds of even jaded audiences.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://antleo-com.github.io/antleo-com.github.io/media/posts/7/About-16-by-9_2.png" alt="" />
+                    <img src="https://antleo.com/media/posts/7/About-16-by-9_2.png" alt="" />
                 Nibzen is a niche branding and content development studio, specializing in thought leadership, content strategy, and visual branding.<br><br>At Nibzen, inexhaustibly passionate writers and designers are hard at work crafting impactful creatives that amplify brand impact.<br><br>The leitmotif of Nibzen’s communication artefacts is the masterful harmony of logic and creativity that arouses attention, interest, and desire, both in the hearts and the minds of even jaded audiences.
             ]]>
         </content>
@@ -36,19 +36,19 @@
         <author>
             <name>Antleo</name>
         </author>
-        <link href="https://antleo-com.github.io/antleo-com.github.io/values/"/>
-        <id>https://antleo-com.github.io/antleo-com.github.io/values/</id>
+        <link href="https://antleo.com/values/"/>
+        <id>https://antleo.com/values/</id>
 
         <updated>2020-04-13T10:46:22+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://antleo-com.github.io/antleo-com.github.io/media/posts/6/Values-16-by-9.png" alt="" />
+                        <img src="https://antleo.com/media/posts/6/Values-16-by-9.png" alt="" />
                     quality: we keep pushing the boundaries in our march towards perfection serendipity: we seek serendipitous cross-disciplinary inspiration from the world around us simplicity: we believe that simplicity is the ultimate sophistication subtlety: we have discovered that what is subtle is often quite more effective than what is loud balance: we are creatively revitalized by the interplay between a balanced mind, spirit, and body, learning: we are constantly researching markets, industries, and consumer behaviour understanding: we take the time to understand our clients unique needs, in-depth fairness: we always operate with a win-win mindset
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://antleo-com.github.io/antleo-com.github.io/media/posts/6/Values-16-by-9.png" alt="" />
+                    <img src="https://antleo.com/media/posts/6/Values-16-by-9.png" alt="" />
                 <strong>quality:</strong> we keep pushing the boundaries in our march towards perfection <br><br><strong>serendipity:</strong> we seek serendipitous cross-disciplinary inspiration from the world around us<br><br><strong>simplicity:</strong> we believe that simplicity is the ultimate sophistication<br><br><strong>subtlety:</strong> we have discovered that what is subtle is often quite more effective than what is loud<br><br><strong>balance:</strong> we are creatively revitalized by the interplay between a balanced mind, spirit, and body, <br><br><strong>learning:</strong> we are constantly researching markets, industries, and consumer behaviour<br><br><strong>understanding:</strong> we take the time to understand our clients unique needs, in-depth<br><br><strong>fairness:</strong> we always operate with a win-win mindset
             ]]>
         </content>
@@ -58,20 +58,20 @@
         <author>
             <name>Antleo</name>
         </author>
-        <link href="https://antleo-com.github.io/antleo-com.github.io/bee-line-your-customers-with-personalization-customization-and-localization/"/>
-        <id>https://antleo-com.github.io/antleo-com.github.io/bee-line-your-customers-with-personalization-customization-and-localization/</id>
+        <link href="https://antleo.com/bee-line-your-customers-with-personalization-customization-and-localization/"/>
+        <id>https://antleo.com/bee-line-your-customers-with-personalization-customization-and-localization/</id>
             <category term="Blogs"/>
 
         <updated>2020-04-13T10:42:34+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://antleo-com.github.io/antleo-com.github.io/media/posts/4/Healthcare_no-bfy-logo.jpg" alt="" />
+                        <img src="https://antleo.com/media/posts/4/Healthcare_no-bfy-logo.jpg" alt="" />
                     Consumers today are inundated with a barrage of promotions, advertisements, and information, and businesses face an uphill task in getting their message across. Sellers often find customers buzzing across into the open doors of wilier competitors. Three aspects of customer-centricity are helping businesses avoid this predicament. In the early ‘50s, retailers mailing out their promotional leaflets would often personalize them with hand-written names of the recipients – an example of personalization. Sometimes they would include material in their mail envelopes relevant to the addressee family demographic; farming implement brochures for farmers, fashion brochures for housewives, book brochures for the children&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://antleo-com.github.io/antleo-com.github.io/media/posts/4/Healthcare_no-bfy-logo.jpg" alt="" />
+                    <img src="https://antleo.com/media/posts/4/Healthcare_no-bfy-logo.jpg" alt="" />
                 <p>Consumers today are inundated with a barrage of promotions, advertisements, and information, and businesses face an uphill task in getting their message across. Sellers often find customers buzzing across into the open doors of wilier competitors. Three aspects of customer-centricity are helping businesses avoid this predicament.</p>
 <h2 id="mcetoc_1e3plei9pb">Three facets of customer orientation</h2>
 <p>In the early ‘50s, retailers mailing out their promotional leaflets would often personalize them with hand-written names of the recipients – an example of personalization. Sometimes they would include material in their mail envelopes relevant to the addressee family demographic; farming implement brochures for farmers, fashion brochures for housewives, book brochures for the children – an example of customization. Further, some savvy retailers would take into account locality preferences for products, and send discount coupons or special offers for these products to customers within the given locality, and thereby drive demand further – an example of localization.</p>
@@ -102,19 +102,19 @@
         <author>
             <name>Antleo</name>
         </author>
-        <link href="https://antleo-com.github.io/antleo-com.github.io/services/"/>
-        <id>https://antleo-com.github.io/antleo-com.github.io/services/</id>
+        <link href="https://antleo.com/services/"/>
+        <id>https://antleo.com/services/</id>
 
         <updated>2020-04-13T10:40:04+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://antleo-com.github.io/antleo-com.github.io/media/posts/3/Services-16-by-9.png" alt="" />
+                        <img src="https://antleo.com/media/posts/3/Services-16-by-9.png" alt="" />
                     content: our core strength is crafting crisp, compelling content backed by in-depth research. Artifacts include thought leadership articles, case studies, whitepapers, and blog posts creatives: we integrate design with carefully chosen words to create a memorable impact; our design expertise extends to print and online banners and advertisments, video and animation scripting and production, and branded gift items communications: we enhance and manage the content and branding on your communications channels whether it be websites, microsites, social media handles, blogs, mailers, or newsletters
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://antleo-com.github.io/antleo-com.github.io/media/posts/3/Services-16-by-9.png" alt="" />
+                    <img src="https://antleo.com/media/posts/3/Services-16-by-9.png" alt="" />
                 <p><strong>content:</strong> our core strength is crafting crisp, compelling content backed by in-depth research. Artifacts include thought leadership articles, case studies, whitepapers, and blog posts</p>
 <p><strong>creatives:</strong> we integrate design with carefully chosen words to create a memorable impact; our design expertise extends to print and online banners and advertisments, video and animation scripting and production, and branded gift items</p>
 <p><strong>communications:</strong> we enhance and manage the content and branding on your communications channels whether it be websites, microsites, social media handles, blogs, mailers, or newsletters</p>
@@ -126,19 +126,19 @@
         <author>
             <name>Antleo</name>
         </author>
-        <link href="https://antleo-com.github.io/antleo-com.github.io/contact/"/>
-        <id>https://antleo-com.github.io/antleo-com.github.io/contact/</id>
+        <link href="https://antleo.com/contact/"/>
+        <id>https://antleo.com/contact/</id>
 
         <updated>2020-04-13T10:39:51+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://antleo-com.github.io/antleo-com.github.io/media/posts/2/Contact-16by9.png" alt="" />
+                        <img src="https://antleo.com/media/posts/2/Contact-16by9.png" alt="" />
                     If you would, fill out the form below. We'd love to hear form you!Loading…
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://antleo-com.github.io/antleo-com.github.io/media/posts/2/Contact-16by9.png" alt="" />
+                    <img src="https://antleo.com/media/posts/2/Contact-16by9.png" alt="" />
                 If you would, fill out the form below. We'd love to hear form you!
 <p><iframe width="640" height="747" src="https://docs.google.com/forms/d/e/1FAIpQLScozymLEBTV64BSDC8VW3t3_RcXE7Xuf0p0NgfIAMD_-lz04w/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
             ]]>
