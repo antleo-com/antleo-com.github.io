@@ -3,32 +3,12 @@
     <title>Antleo</title>
     <link href="https://antleo.com/feed.xml" rel="self" />
     <link href="https://antleo.com" />
-    <updated>2020-04-15T10:29:55+05:30</updated>
+    <updated>2020-04-15T10:32:45+05:30</updated>
     <author>
         <name>Antleo</name>
     </author>
     <id>https://antleo.com</id>
 
-    <entry>
-        <title>Home</title>
-        <author>
-            <name>Antleo</name>
-        </author>
-        <link href="https://antleo.com/home/"/>
-        <id>https://antleo.com/home/</id>
-
-        <updated>2020-04-15T10:29:48+05:30</updated>
-            <summary>
-                <![CDATA[
-                    Welcome to Antleo Consulting where inspired creativity drives the art of effective marketing communications. Learn more about us here &gt;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                Welcome to Antleo Consulting where inspired creativity drives the art of effective marketing communications. Learn more about us <a href="about">here </a><a href="https://antleo.com/contact/">&gt;</a>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>About</title>
         <author>
