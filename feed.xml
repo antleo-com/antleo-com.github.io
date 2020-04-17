@@ -3,7 +3,7 @@
     <title>Antleo</title>
     <link href="https://antleo.com/feed.xml" rel="self" />
     <link href="https://antleo.com" />
-    <updated>2020-04-17T18:03:42+05:30</updated>
+    <updated>2020-04-17T18:18:52+05:30</updated>
     <author>
         <name>Antleo</name>
     </author>
@@ -129,17 +129,17 @@
         <link href="https://antleo.com/contact/"/>
         <id>https://antleo.com/contact/</id>
 
-        <updated>2020-04-13T10:39:51+05:30</updated>
+        <updated>2020-04-17T18:18:48+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://antleo.com/media/posts/2/Contact-16by9.png" alt="" />
-                    If you would, fill out the form below. We'd love to hear form you!Loading…
+                    If you would, fill out the form below. We'd love to hear from you!Loading…
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://antleo.com/media/posts/2/Contact-16by9.png" alt="" />
-                If you would, fill out the form below. We'd love to hear form you!
+                If you would, fill out the form below. We'd love to hear from you!
 <p><iframe width="640" height="747" src="https://docs.google.com/forms/d/e/1FAIpQLScozymLEBTV64BSDC8VW3t3_RcXE7Xuf0p0NgfIAMD_-lz04w/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
             ]]>
         </content>
