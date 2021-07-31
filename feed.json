@@ -28,9 +28,9 @@
         {
             "id": "https://antleo.com/about/",
             "url": "https://antleo.com/about/",
-            "title": "About",
-            "summary": "Antleo is a niche branding and content development studio, specializing in thought leadership, content strategy, and visual branding. Named after the greek word (ἀντλέω: antleō) which means 'to draw' (e.g. water from a well), we are constantly drawing deep from the wells of creativity. At Antleo, inexhaustibly passionate writers and designers are hard at work crafting impactful creatives that amplify brand impact for our clients. The leitmotif of our communication artefacts is the masterful harmony of logic and creativity that arouses attention, interest, and desire, in both the hearts and the minds of even jaded audiences.",
-            "content_html": "Antleo is a niche branding and content development studio, specializing in thought leadership, content strategy, and visual branding. Named after the greek word (ἀντλέω: antleō) which means 'to draw' (e.g. water from a well), we are constantly drawing deep from the wells of creativity. <br><br>At Antleo, inexhaustibly passionate writers and designers are hard at work crafting impactful creatives that amplify brand impact for our clients.<br><br>The leitmotif of our communication artefacts is the masterful harmony of logic and creativity that arouses attention, interest, and desire, in both the hearts and the minds of even jaded audiences.",
+            "title": "....",
+            "summary": "About UsAntleo is a niche branding and content development studio, specializing in thought leadership, content strategy, and visual branding. Named after the greek word (ἀντλέω: antleō) which means 'to draw' (e.g. water from a well), we are constantly drawing deep from the wells of creativity. At Antleo, inexhaustibly passionate writers and designers are hard at work crafting impactful creatives that amplify brand impact for our clients. The leitmotif of our communication artefacts is the masterful harmony of logic and creativity that arouses attention, interest, and desire, in both the hearts and the minds of even jaded audiences.",
+            "content_html": "<h2>About Us</h2>\n<p>Antleo is a niche branding and content development studio, specializing in thought leadership, content strategy, and visual branding. Named after the greek word (ἀντλέω: antleō) which means 'to draw' (e.g. water from a well), we are constantly drawing deep from the wells of creativity. <br><br>At Antleo, inexhaustibly passionate writers and designers are hard at work crafting impactful creatives that amplify brand impact for our clients.<br><br>The leitmotif of our communication artefacts is the masterful harmony of logic and creativity that arouses attention, interest, and desire, in both the hearts and the minds of even jaded audiences.</p>",
             "image": "https://antleo.com/media/posts/7/About-New-16-by-9_2.png",
             "author": {
                 "name": "Antleo"
@@ -38,14 +38,14 @@
             "tags": [
             ],
             "date_published": "2020-04-13T10:45:44+05:30",
-            "date_modified": "2020-05-02T21:38:45+05:30"
+            "date_modified": "2021-07-31T18:27:59+05:30"
         },
         {
             "id": "https://antleo.com/values/",
             "url": "https://antleo.com/values/",
-            "title": "Values",
-            "summary": "quality: we keep pushing the boundaries in our march towards perfection serendipity: we seek serendipitous cross-disciplinary inspiration from the world around us simplicity: we believe that simplicity is the ultimate sophistication subtlety: we have discovered that what is subtle is often quite more effective than what is loud balance: we are creatively revitalized by the interplay between a balanced mind, spirit, and body, learning: we are constantly researching markets, industries, and consumer behaviour understanding: we take the time to understand our clients unique needs, in-depth fairness: we always operate with a win-win mindset",
-            "content_html": "<strong>quality:</strong> we keep pushing the boundaries in our march towards perfection <br><br><strong>serendipity:</strong> we seek serendipitous cross-disciplinary inspiration from the world around us<br><br><strong>simplicity:</strong> we believe that simplicity is the ultimate sophistication<br><br><strong>subtlety:</strong> we have discovered that what is subtle is often quite more effective than what is loud<br><br><strong>balance:</strong> we are creatively revitalized by the interplay between a balanced mind, spirit, and body, <br><br><strong>learning:</strong> we are constantly researching markets, industries, and consumer behaviour<br><br><strong>understanding:</strong> we take the time to understand our clients unique needs, in-depth<br><br><strong>fairness:</strong> we always operate with a win-win mindset",
+            "title": "....",
+            "summary": "Our Values quality: we keep pushing the boundaries in our march towards perfection serendipity: we seek serendipitous cross-disciplinary inspiration from the world around us simplicity: we believe that simplicity is the ultimate sophistication subtlety: we have discovered that what is subtle is often quite more effective than what is loud balance: we are creatively revitalized by the interplay between a balanced mind, spirit, and body, learning: we are constantly researching markets, industries, and consumer behaviour understanding: we take the time to understand our clients unique needs, in-depth fairness: we always operate with a win-win mindset",
+            "content_html": "<h2>Our Values<br><br></h2>\n<p><strong>quality:</strong> we keep pushing the boundaries in our march towards perfection <br><br><strong>serendipity:</strong> we seek serendipitous cross-disciplinary inspiration from the world around us<br><br><strong>simplicity:</strong> we believe that simplicity is the ultimate sophistication<br><br><strong>subtlety:</strong> we have discovered that what is subtle is often quite more effective than what is loud<br><br><strong>balance:</strong> we are creatively revitalized by the interplay between a balanced mind, spirit, and body, <br><br><strong>learning:</strong> we are constantly researching markets, industries, and consumer behaviour<br><br><strong>understanding:</strong> we take the time to understand our clients unique needs, in-depth<br><br><strong>fairness:</strong> we always operate with a win-win mindset</p>",
             "image": "https://antleo.com/media/posts/6/Values-16-by-9.png",
             "author": {
                 "name": "Antleo"
@@ -53,7 +53,7 @@
             "tags": [
             ],
             "date_published": "2020-04-13T10:45:11+05:30",
-            "date_modified": "2020-04-13T10:46:22+05:30"
+            "date_modified": "2021-07-31T18:29:34+05:30"
         },
         {
             "id": "https://antleo.com/bee-line-your-customers-with-personalization-customization-and-localization/",
@@ -74,9 +74,9 @@
         {
             "id": "https://antleo.com/services/",
             "url": "https://antleo.com/services/",
-            "title": "Services",
-            "summary": "content: our core strength is crafting crisp, compelling content backed by in-depth research. Artifacts include thought leadership articles, case studies, whitepapers, and blog posts creatives: we integrate design with carefully chosen words to create a memorable impact; our design expertise extends to print and online banners and advertisments, video and animation scripting and production, and branded gift items communications: we enhance and manage the content and branding on your communications channels whether it be websites, microsites, social media handles, blogs, mailers, or newsletters",
-            "content_html": "<p><strong>content:</strong> our core strength is crafting crisp, compelling content backed by in-depth research. Artifacts include thought leadership articles, case studies, whitepapers, and blog posts</p>\n<p><strong>creatives:</strong> we integrate design with carefully chosen words to create a memorable impact; our design expertise extends to print and online banners and advertisments, video and animation scripting and production, and branded gift items</p>\n<p><strong>communications:</strong> we enhance and manage the content and branding on your communications channels whether it be websites, microsites, social media handles, blogs, mailers, or newsletters</p>",
+            "title": "....",
+            "summary": "Our Services content: our core strength is crafting crisp, compelling content backed by in-depth research. Artifacts include thought leadership articles, case studies, whitepapers, and blog posts creatives: we integrate design with carefully chosen words to create a memorable impact; our design expertise extends to print and online banners and advertisments, video and animation scripting and production, and branded gift items communications: we enhance and manage the content and branding on your communications channels whether it be websites, microsites, social media handles, blogs, mailers, or newsletters",
+            "content_html": "<h2>Our Services<br><br></h2>\n<p><strong>content:</strong> our core strength is crafting crisp, compelling content backed by in-depth research. Artifacts include thought leadership articles, case studies, whitepapers, and blog posts</p>\n<p><strong>creatives:</strong> we integrate design with carefully chosen words to create a memorable impact; our design expertise extends to print and online banners and advertisments, video and animation scripting and production, and branded gift items</p>\n<p><strong>communications:</strong> we enhance and manage the content and branding on your communications channels whether it be websites, microsites, social media handles, blogs, mailers, or newsletters</p>",
             "image": "https://antleo.com/media/posts/3/Services-16-by-9.png",
             "author": {
                 "name": "Antleo"
@@ -84,14 +84,14 @@
             "tags": [
             ],
             "date_published": "2020-04-13T10:39:00+05:30",
-            "date_modified": "2020-04-13T10:40:04+05:30"
+            "date_modified": "2021-07-31T18:30:10+05:30"
         },
         {
             "id": "https://antleo.com/contact/",
             "url": "https://antleo.com/contact/",
-            "title": "Contact",
-            "summary": "If you would, fill out the form below. We'd love to hear from you!Loading…",
-            "content_html": "If you would, fill out the form below. We'd love to hear from you!\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"640\" height=\"747\" src=\"https://docs.google.com/forms/d/e/1FAIpQLScozymLEBTV64BSDC8VW3t3_RcXE7Xuf0p0NgfIAMD_-lz04w/viewform?embedded=true\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Loading…</iframe></div>",
+            "title": "....",
+            "summary": "Contact Us If you would, fill out the form below. We'd love to hear from you!Loading…",
+            "content_html": "<h2>Contact Us<br><br></h2>\n<p>If you would, fill out the form below. We'd love to hear from you!</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"640\" height=\"747\" src=\"https://docs.google.com/forms/d/e/1FAIpQLScozymLEBTV64BSDC8VW3t3_RcXE7Xuf0p0NgfIAMD_-lz04w/viewform?embedded=true\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Loading…</iframe></div>",
             "image": "https://antleo.com/media/posts/2/Contact-16by9.png",
             "author": {
                 "name": "Antleo"
@@ -99,7 +99,7 @@
             "tags": [
             ],
             "date_published": "2020-04-13T10:38:24+05:30",
-            "date_modified": "2020-04-17T18:18:48+05:30"
+            "date_modified": "2021-07-31T18:30:34+05:30"
         }
     ]
 }
