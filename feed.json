@@ -89,7 +89,7 @@
             "url": "https://antleo.com/contact/",
             "title": "....",
             "summary": "Contact Us Please fill in the fields below, and click Send: Name* Email Address* Message*",
-            "content_html": "<h2>Contact Us</h2>\n<form action=\"https://docs.google.com/forms/d/e/1FAIpQLScozymLEBTV64BSDC8VW3t3_RcXE7Xuf0p0NgfIAMD_-lz04w/formResponse\" method=\"post\"><br>Please fill in the fields below, and click Send: <br><br><label>Name*</label> <br><input name=\"entry.775154500\" required=\"\" type=\"text\" placeholder=\"Required*\"> <br><br><label>Email Address*</label> <br><input name=\"entry.2040896180\" required=\"\" type=\"email\" placeholder=\"Required*\"> <br><br><label>Message*</label> <br><textarea name=\"entry.1299930221\" required=\"\" rows=\"5\" placeholder=\"Required*\"></textarea> <br><br><input type=\"submit\" value=\"Send\"></form>",
+            "content_html": "<h2>Contact Us</h2>\n<form action=\"https://docs.google.com/forms/d/e/1FAIpQLScozymLEBTV64BSDC8VW3t3_RcXE7Xuf0p0NgfIAMD_-lz04w/formResponse\" method=\"post\" target=\"_self\"><br>Please fill in the fields below, and click Send: <br><br><label>Name*</label> <br><input name=\"entry.775154500\" required=\"\" type=\"text\" placeholder=\"Required*\"> <br><br><label>Email Address*</label> <br><input name=\"entry.2040896180\" required=\"\" type=\"email\" placeholder=\"Required*\"> <br><br><label>Message*</label> <br><textarea name=\"entry.1299930221\" required=\"\" rows=\"5\" placeholder=\"Required*\"></textarea> <br><br><input type=\"submit\" value=\"Send\"></form>",
             "image": "https://antleo.com/media/posts/2/cups-16-by-9_2-bw.png",
             "author": {
                 "name": "Antleo"
@@ -97,7 +97,7 @@
             "tags": [
             ],
             "date_published": "2020-04-13T10:38:24+05:30",
-            "date_modified": "2022-10-11T21:22:37+05:30"
+            "date_modified": "2022-10-11T21:58:33+05:30"
         }
     ]
 }

@@ -3,7 +3,7 @@
     <title>Antleo</title>
     <link href="https://antleo.com/feed.xml" rel="self" />
     <link href="https://antleo.com" />
-    <updated>2022-10-11T21:28:31+05:30</updated>
+    <updated>2022-10-11T21:58:33+05:30</updated>
     <author>
         <name>Antleo</name>
     </author>
@@ -150,7 +150,7 @@
         <link href="https://antleo.com/contact/"/>
         <id>https://antleo.com/contact/</id>
 
-        <updated>2022-10-11T21:22:37+05:30</updated>
+        <updated>2022-10-11T21:58:33+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://antleo.com/media/posts/2/cups-16-by-9_2-bw.png" alt="" />
@@ -161,7 +161,7 @@
             <![CDATA[
                     <img src="https://antleo.com/media/posts/2/cups-16-by-9_2-bw.png" alt="" />
                 <h2>Contact Us</h2>
-<form action="https://docs.google.com/forms/d/e/1FAIpQLScozymLEBTV64BSDC8VW3t3_RcXE7Xuf0p0NgfIAMD_-lz04w/formResponse" method="post"><br>Please fill in the fields below, and click Send: <br><br><label>Name*</label> <br><input name="entry.775154500" required="" type="text" placeholder="Required*"> <br><br><label>Email Address*</label> <br><input name="entry.2040896180" required="" type="email" placeholder="Required*"> <br><br><label>Message*</label> <br><textarea name="entry.1299930221" required="" rows="5" placeholder="Required*"></textarea> <br><br><input type="submit" value="Send"></form>
+<form action="https://docs.google.com/forms/d/e/1FAIpQLScozymLEBTV64BSDC8VW3t3_RcXE7Xuf0p0NgfIAMD_-lz04w/formResponse" method="post" target="_self"><br>Please fill in the fields below, and click Send: <br><br><label>Name*</label> <br><input name="entry.775154500" required="" type="text" placeholder="Required*"> <br><br><label>Email Address*</label> <br><input name="entry.2040896180" required="" type="email" placeholder="Required*"> <br><br><label>Message*</label> <br><textarea name="entry.1299930221" required="" rows="5" placeholder="Required*"></textarea> <br><br><input type="submit" value="Send"></form>
             ]]>
         </content>
     </entry>
