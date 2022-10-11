@@ -3,7 +3,7 @@
     <title>Antleo</title>
     <link href="https://antleo.com/feed.xml" rel="self" />
     <link href="https://antleo.com" />
-    <updated>2022-10-11T19:16:08+05:30</updated>
+    <updated>2021-07-31T18:33:07+05:30</updated>
     <author>
         <name>Antleo</name>
     </author>
@@ -152,18 +152,19 @@
         <link href="https://antleo.com/contact/"/>
         <id>https://antleo.com/contact/</id>
 
-        <updated>2022-10-11T19:16:08+05:30</updated>
+        <updated>2021-07-31T18:33:07+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://antleo.com/media/posts/2/Contact-16by9.png" alt="" />
-                    Contact Us *Name Email Address* Message* Send
+                    Contact Us If you would, fill out the form below. We'd love to hear from you! Loading…
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://antleo.com/media/posts/2/Contact-16by9.png" alt="" />
-                <h1>Contact Us</h1>
-<form action="https://docs.google.com/forms/d/e/1FAIpQLScozymLEBTV64BSDC8VW3t3_RcXE7Xuf0p0NgfIAMD_-lz04w/formResponse" method="post" target="hidden_iframe"><br><label>*Name</label><br><input name="entry.775154500" required="" type="text" placeholder="Required*"> <br><br><label>Email Address*</label> <br><input name="entry.2040896180" required="" type="email" placeholder="Required*"> <br><br><label>Message*</label><br><textarea name="entry.1299930221" required="" rows="5" placeholder="Required*"></textarea> <br><br><button type="submit">Send</button></form>
+                <h2>Contact Us</h2>
+<p>If you would, fill out the form below. We'd love to hear from you!</p>
+<div class="post__iframe"><iframe loading="lazy" width="640" height="747" src="https://docs.google.com/forms/d/e/1FAIpQLScozymLEBTV64BSDC8VW3t3_RcXE7Xuf0p0NgfIAMD_-lz04w/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></div>
             ]]>
         </content>
     </entry>
