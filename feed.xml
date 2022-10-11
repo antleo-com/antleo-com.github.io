@@ -3,7 +3,7 @@
     <title>Antleo</title>
     <link href="https://antleo.com/feed.xml" rel="self" />
     <link href="https://antleo.com" />
-    <updated>2022-10-11T17:56:20+05:30</updated>
+    <updated>2022-10-11T19:16:08+05:30</updated>
     <author>
         <name>Antleo</name>
     </author>
@@ -152,23 +152,18 @@
         <link href="https://antleo.com/contact/"/>
         <id>https://antleo.com/contact/</id>
 
-        <updated>2022-10-11T17:56:20+05:30</updated>
+        <updated>2022-10-11T19:16:08+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://antleo.com/media/posts/2/Contact-16by9.png" alt="" />
-                    var submitted=false; Name* Email Address* Message* Send
+                    Contact Us *Name Email Address* Message* Send
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://antleo.com/media/posts/2/Contact-16by9.png" alt="" />
-                <p>
-<script type="text/javascript">var submitted=false;
-<iframe loading="lazy" name="hidden_iframe" id="hidden_iframe" style="display:none;"
-onload="if(submitted) {window.location='/about';}">
-</script>
-</p>
-<form action="https://docs.google.com/forms/d/e/1FAIpQLScozymLEBTV64BSDC8VW3t3_RcXE7Xuf0p0NgfIAMD_-lz04w/formResponse" method="post" target="hidden_iframe"><label>Name*</label> <input name="entry.775154500" required="" type="text" placeholder="Name*"> <label>Email Address*</label> <input name="entry.2040896180" required="" type="email" placeholder="Email address*"> <label>Message*</label> <textarea name="entry.1299930221" required="" rows="5" placeholder="Message*"></textarea> <button type="submit">Send</button></form>
+                <h1>Contact Us</h1>
+<form action="https://docs.google.com/forms/d/e/1FAIpQLScozymLEBTV64BSDC8VW3t3_RcXE7Xuf0p0NgfIAMD_-lz04w/formResponse" method="post" target="hidden_iframe"><br><label>*Name</label><br><input name="entry.775154500" required="" type="text" placeholder="Required*"> <br><br><label>Email Address*</label> <br><input name="entry.2040896180" required="" type="email" placeholder="Required*"> <br><br><label>Message*</label><br><textarea name="entry.1299930221" required="" rows="5" placeholder="Required*"></textarea> <br><br><button type="submit">Send</button></form>
             ]]>
         </content>
     </entry>
