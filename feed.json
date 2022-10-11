@@ -90,7 +90,7 @@
             "url": "https://antleo.com/contact/",
             "title": "....",
             "summary": "Contact Us If you would, fill out the form below. We'd love to hear from you! var submitted=false; Name: Email address: Message:",
-            "content_html": "<h2>Contact Us</h2>\n<p>If you would, fill out the form below. We'd love to hear from <a href=\"https://antleo.com\">you</a>!</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"640\" height=\"747\" src=\"https://docs.google.com/forms/d/e/1FAIpQLScozymLEBTV64BSDC8VW3t3_RcXE7Xuf0p0NgfIAMD_-lz04w/viewform?embedded=true\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Loading…</iframe></div>\n<p>\n<script type=\"text/javascript\">var submitted=false;</script>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" style=\"display: none;\" name=\"hidden_iframe\" id=\"hidden_iframe\" onload=\"if(submitted) {window.location='https://antleo.com';}\"></iframe></div>\n<form action=\"https://docs.google.com/forms/d/e/1FAIpQLScozymLEBTV64BSDC8VW3t3_RcXE7Xuf0p0NgfIAMD_-lz04w/formResponse?\" enctype=\"text/plain\" target=\"hidden_iframe\">Name:<br><input id=\"entry.810989529\" name=\"entry.775154500\" type=\"text\"><br>Email address:<br><input id=\"entry.463380756\" name=\"entry.2040896180\" type=\"text\"> Message:<br><input id=\"entry.463380756\" name=\"entry.1299930221\" type=\"text\"> <input type=\"submit\" value=\"Submit\"></form>",
+            "content_html": "<div>\n<h2>Contact Us</h2>\n</div>\n<div>\n<p>If you would, fill out the form below. We'd love to hear from <a href=\"https://antleo.com\">you</a>!</p>\n</div>\n<div>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"640\" height=\"747\" src=\"https://docs.google.com/forms/d/e/1FAIpQLScozymLEBTV64BSDC8VW3t3_RcXE7Xuf0p0NgfIAMD_-lz04w/viewform?embedded=true\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Loading…</iframe></div>\n</div>\n<div>\n<p>\n<script type=\"text/javascript\">var submitted=false;</script>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" style=\"display: none;\" name=\"hidden_iframe\" id=\"hidden_iframe\" onload=\"if(submitted) {window.location='https://antleo.com';}\"></iframe></div>\n</div>\n<div><form action=\"https://docs.google.com/forms/d/e/1FAIpQLScozymLEBTV64BSDC8VW3t3_RcXE7Xuf0p0NgfIAMD_-lz04w/formResponse?\" enctype=\"text/plain\" target=\"hidden_iframe\">Name:<br><input id=\"entry.810989529\" name=\"entry.775154500\" type=\"text\"><br>Email address:<br><input id=\"entry.463380756\" name=\"entry.2040896180\" type=\"text\"> <br>Message:<br><input id=\"entry.463380756\" name=\"entry.1299930221\" type=\"text\"> <input type=\"submit\" value=\"Submit\"></form></div>",
             "image": "https://antleo.com/media/posts/2/Contact-16by9.png",
             "author": {
                 "name": "Antleo"
@@ -98,7 +98,7 @@
             "tags": [
             ],
             "date_published": "2020-04-13T10:38:24+05:30",
-            "date_modified": "2022-10-11T16:06:13+05:30"
+            "date_modified": "2022-10-11T16:12:34+05:30"
         }
     ]
 }

@@ -3,7 +3,7 @@
     <title>Antleo</title>
     <link href="https://antleo.com/feed.xml" rel="self" />
     <link href="https://antleo.com" />
-    <updated>2022-10-11T16:06:13+05:30</updated>
+    <updated>2022-10-11T16:12:34+05:30</updated>
     <author>
         <name>Antleo</name>
     </author>
@@ -152,7 +152,7 @@
         <link href="https://antleo.com/contact/"/>
         <id>https://antleo.com/contact/</id>
 
-        <updated>2022-10-11T16:06:13+05:30</updated>
+        <updated>2022-10-11T16:12:34+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://antleo.com/media/posts/2/Contact-16by9.png" alt="" />
@@ -162,13 +162,21 @@
         <content type="html">
             <![CDATA[
                     <img src="https://antleo.com/media/posts/2/Contact-16by9.png" alt="" />
-                <h2>Contact Us</h2>
+                <div>
+<h2>Contact Us</h2>
+</div>
+<div>
 <p>If you would, fill out the form below. We'd love to hear from <a href="https://antleo.com">you</a>!</p>
+</div>
+<div>
 <div class="post__iframe"><iframe loading="lazy" width="640" height="747" src="https://docs.google.com/forms/d/e/1FAIpQLScozymLEBTV64BSDC8VW3t3_RcXE7Xuf0p0NgfIAMD_-lz04w/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></div>
+</div>
+<div>
 <p>
 <script type="text/javascript">var submitted=false;</script>
 <div class="post__iframe"><iframe loading="lazy" style="display: none;" name="hidden_iframe" id="hidden_iframe" onload="if(submitted) {window.location='https://antleo.com';}"></iframe></div>
-<form action="https://docs.google.com/forms/d/e/1FAIpQLScozymLEBTV64BSDC8VW3t3_RcXE7Xuf0p0NgfIAMD_-lz04w/formResponse?" enctype="text/plain" target="hidden_iframe">Name:<br><input id="entry.810989529" name="entry.775154500" type="text"><br>Email address:<br><input id="entry.463380756" name="entry.2040896180" type="text"> Message:<br><input id="entry.463380756" name="entry.1299930221" type="text"> <input type="submit" value="Submit"></form>
+</div>
+<div><form action="https://docs.google.com/forms/d/e/1FAIpQLScozymLEBTV64BSDC8VW3t3_RcXE7Xuf0p0NgfIAMD_-lz04w/formResponse?" enctype="text/plain" target="hidden_iframe">Name:<br><input id="entry.810989529" name="entry.775154500" type="text"><br>Email address:<br><input id="entry.463380756" name="entry.2040896180" type="text"> <br>Message:<br><input id="entry.463380756" name="entry.1299930221" type="text"> <input type="submit" value="Submit"></form></div>
             ]]>
         </content>
     </entry>
