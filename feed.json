@@ -90,7 +90,7 @@
             "url": "https://antleo.com/contact/",
             "title": "....",
             "summary": "var submitted=false; Name* Email Address* Message* Send",
-            "content_html": "<p>\n<script type=\"text/javascript\">var submitted=false;\n<iframe loading=\"lazy\" name=\"hidden_iframe\" id=\"hidden_iframe\" style=\"display:none;\"\nonload=\"if(submitted) {window.location=\"https://antleo.com\";}\">\n</script>\n</p>\n<form action=\"https://docs.google.com/forms/d/e/1FAIpQLScozymLEBTV64BSDC8VW3t3_RcXE7Xuf0p0NgfIAMD_-lz04w/formResponse\" method=\"post\" target=\"hidden_iframe\"><label>Name*</label> <input name=\"entry.775154500\" required=\"\" type=\"text\" placeholder=\"Name*\"> <label>Email Address*</label> <input name=\"entry.2040896180\" required=\"\" type=\"email\" placeholder=\"Email address*\"> <label>Message*</label> <textarea name=\"entry.1299930221\" required=\"\" rows=\"5\" placeholder=\"Message*\"></textarea> <button type=\"submit\">Send</button></form>",
+            "content_html": "<p>\n<script type=\"text/javascript\">var submitted=false;\n<iframe loading=\"lazy\" name=\"hidden_iframe\" id=\"hidden_iframe\" style=\"display:none;\"\nonload=\"if(submitted) {window.location='https://antleo.com';}\">\n</script>\n</p>\n<form action=\"https://docs.google.com/forms/d/e/1FAIpQLScozymLEBTV64BSDC8VW3t3_RcXE7Xuf0p0NgfIAMD_-lz04w/formResponse\" method=\"post\" target=\"hidden_iframe\"><label>Name*</label> <input name=\"entry.775154500\" required=\"\" type=\"text\" placeholder=\"Name*\"> <label>Email Address*</label> <input name=\"entry.2040896180\" required=\"\" type=\"email\" placeholder=\"Email address*\"> <label>Message*</label> <textarea name=\"entry.1299930221\" required=\"\" rows=\"5\" placeholder=\"Message*\"></textarea> <button type=\"submit\">Send</button></form>",
             "image": "https://antleo.com/media/posts/2/Contact-16by9.png",
             "author": {
                 "name": "Antleo"
@@ -98,7 +98,7 @@
             "tags": [
             ],
             "date_published": "2020-04-13T10:38:24+05:30",
-            "date_modified": "2022-10-11T17:43:05+05:30"
+            "date_modified": "2022-10-11T17:48:08+05:30"
         }
     ]
 }
