@@ -120,7 +120,7 @@
             "url": "https://antleo.com/contact/",
             "title": "....",
             "summary": "Contact Us We'd love to hear from you! Fill in the form below and click Send. Name* Email Address* Message* Send",
-            "content_html": "<h2>Contact Us</h2>\n<p>We'd love to <a href=\"https://antleo.com/contact-3/\">hear from</a> you! Fill in the form below and click Send.</p>\n<p> </p>\n<form action=\"https://formforsite.com/send/eWVscmFoYy1sZW5hckB5YWhvby5jb20\" method=\"POST\"><label>Name*</label><br><input required=\"\" type=\"text\" placeholder=\"Required*\"><br><br><label>Email Address*</label><br><input name=\"email\" required=\"\" type=\"email\" placeholder=\"Required*\"><br><br><label>Message*</label><br><textarea name=\"message\" required=\"\" rows=\"5\" placeholder=\"Required*\"></textarea><br><button type=\"submit\">Send</button> <input name=\"_site\" type=\"hidden\" value=\"antleo\"> <input name=\"_form\" type=\"hidden\" value=\"Contact Form\"> <input name=\"_error-page-redirect\" type=\"hidden\" value=\"http://antleo.com/contacterror/\"> <input name=\"_success-page-redirect\" type=\"hidden\" value=\"http://antleo.com/contactsuccess\"></form>",
+            "content_html": "<h2>Contact Us</h2>\n<p>We'd love to <a href=\"https://antleo.com/contact-3/\">hear from</a> you! Fill in the form below and click Send.</p>\n<p> </p>\n<form action=\"https://formforsite.com/send/eWVscmFoYy1sZW5hckB5YWhvby5jb20\" method=\"POST\"><label>Name*</label><br><input required=\"\" type=\"text\" placeholder=\"Required*\"><br><br><label>Email Address*</label><br><input name=\"email\" required=\"\" type=\"email\" placeholder=\"Required*\"><br><br><label>Message*</label><br><textarea name=\"message\" required=\"\" rows=\"5\" placeholder=\"Required*\"></textarea><br><button type=\"submit\">Send</button> <input name=\"_site\" type=\"hidden\" value=\"antleo\"> <input name=\"_form\" type=\"hidden\" value=\"Contact Form\"> <input name=\"_error-page-redirect\" type=\"hidden\" value=\"http://antleo.com/contact-2/\"> <input name=\"_success-page-redirect\" type=\"hidden\" value=\"http://antleo.com/contact-3/\"></form>",
             "image": "https://antleo.com/media/posts/2/cups-16-by-9_2-bw.png",
             "author": {
                 "name": "Antleo"
@@ -128,7 +128,7 @@
             "tags": [
             ],
             "date_published": "2020-04-13T10:38:24+05:30",
-            "date_modified": "2022-10-14T22:07:45+05:30"
+            "date_modified": "2022-10-14T22:14:12+05:30"
         }
     ]
 }
