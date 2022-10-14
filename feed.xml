@@ -3,12 +3,61 @@
     <title>Antleo</title>
     <link href="https://antleo.com/feed.xml" rel="self" />
     <link href="https://antleo.com" />
-    <updated>2022-10-11T22:31:31+05:30</updated>
+    <updated>2022-10-14T21:51:55+05:30</updated>
     <author>
         <name>Antleo</name>
     </author>
     <id>https://antleo.com</id>
 
+    <entry>
+        <title>contacterror</title>
+        <author>
+            <name>Antleo</name>
+        </author>
+        <link href="https://antleo.com/contact-2/"/>
+        <id>https://antleo.com/contact-2/</id>
+
+        <updated>2022-10-14T21:51:55+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://antleo.com/media/posts/10/cups-16-by-9_2-bw.png" alt="" />
+                    Contact (Error) I'd love to hear from you! But something went wrong with your last form submission. Please try submiting the form again below.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://antleo.com/media/posts/10/cups-16-by-9_2-bw.png" alt="" />
+                <h2>Contact (Error)</h2>
+<p>I'd love to hear from you! But something went wrong with your last form submission. Please try submiting the form again below.</p>
+<p> </p>
+<form action="https://formforsite.com/send/eWVscmFoYy1sZW5hckB5YWhvby5jb20" method="POST"><label>Name*</label><br><input required="" type="text" placeholder="Required*"><br><br><label>Email Address*</label><br><input name="email" required="" type="email" placeholder="Required*"><br><br><label>Message*</label><br><textarea name="message" required="" rows="5" placeholder="Required*"></textarea><br><button type="submit">Send</button> <input name="_site" type="hidden" value="antleo"> <input name="_form" type="hidden" value="Contact Form"> <input name="_error-page-redirect" type="hidden" value="http://antleo.com/contacterror/"> <input name="_success-page-redirect" type="hidden" value="http://antleo.com/contactsuccess"></form>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>contactsuccess</title>
+        <author>
+            <name>Antleo</name>
+        </author>
+        <link href="https://antleo.com/contact-3/"/>
+        <id>https://antleo.com/contact-3/</id>
+
+        <updated>2022-10-14T21:51:49+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://antleo.com/media/posts/11/cups-16-by-9_2-bw.png" alt="" />
+                    Your message is on its way! Thanks for writing in. If you've submitted a valid email address in your form, you can look forward to hearing back from us soon!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://antleo.com/media/posts/11/cups-16-by-9_2-bw.png" alt="" />
+                <h2>Your message is on its way!</h2>
+<p>Thanks for writing in. If you've submitted a valid email address in your form, you can look forward to hearing back from us soon!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Happy New Year 2021</title>
         <author>
@@ -152,7 +201,7 @@
         <link href="https://antleo.com/contact/"/>
         <id>https://antleo.com/contact/</id>
 
-        <updated>2022-10-11T21:58:33+05:30</updated>
+        <updated>2022-10-14T21:51:34+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://antleo.com/media/posts/2/cups-16-by-9_2-bw.png" alt="" />
