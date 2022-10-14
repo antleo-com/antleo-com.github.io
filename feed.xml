@@ -3,7 +3,7 @@
     <title>Antleo</title>
     <link href="https://antleo.com/feed.xml" rel="self" />
     <link href="https://antleo.com" />
-    <updated>2022-10-14T22:15:37+05:30</updated>
+    <updated>2022-10-14T22:25:21+05:30</updated>
     <author>
         <name>Antleo</name>
     </author>
@@ -201,7 +201,7 @@
         <link href="https://antleo.com/contact/"/>
         <id>https://antleo.com/contact/</id>
 
-        <updated>2022-10-14T22:15:37+05:30</updated>
+        <updated>2022-10-14T22:25:21+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://antleo.com/media/posts/2/cups-16-by-9_2-bw.png" alt="" />
@@ -214,7 +214,7 @@
                 <h2>Contact Us</h2>
 <p>We'd love to hear from you! Fill in the form below and click Send.</p>
 <p> </p>
-<form action="https://formforsite.com/send/eWVscmFoYy1sZW5hckB5YWhvby5jb20" method="POST"><label>Name*</label><br><input required="" type="text" placeholder="Required*"><br><br><label>Email Address*</label><br><input name="email" required="" type="email" placeholder="Required*"><br><br><label>Message*</label><br><textarea name="message" required="" rows="5" placeholder="Required*"></textarea><br><button type="submit">Send</button> <input name="_site" type="hidden" value="antleo"> <input name="_form" type="hidden" value="Contact Form"> <input name="_error-page-redirect" type="hidden" value="http://antleo.com/contact-2/"> <input name="_success-page-redirect" type="hidden" value="http://antleo.com/contact-3/"></form>
+<form action="https://formforsite.com/send/eWVscmFoYy1sZW5hckB5YWhvby5jb20" method="POST"><label>Name*</label><br><input name="nomos" type="text" placeholder="Required*"><br><br><label>Email Address*</label><br><input name="email" type="email" placeholder="Required*"><br><br><label>Message*</label><br><textarea name="message" rows="5" placeholder="Required*"></textarea><br><button type="submit">Send</button> <input name="_site" type="hidden" value="antleo"> <input name="_form" type="hidden" value="Contact Form"> <input name="_error-page-redirect" type="hidden" value="http://antleo.com/contact-2/"> <input name="_success-page-redirect" type="hidden" value="http://antleo.com/contact-3/"></form>
             ]]>
         </content>
     </entry>
