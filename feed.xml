@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Antleo</title>
     <link href="https://antleo.com/feed.xml" rel="self" />
     <link href="https://antleo.com" />
@@ -16,6 +16,7 @@
         </author>
         <link href="https://antleo.com/contact-2/"/>
         <id>https://antleo.com/contact-2/</id>
+        <media:content url="https://antleo.com/media/posts/10/cups-16-by-9_2-bw.png" medium="image" />
 
         <updated>2022-10-14T21:56:52+05:30</updated>
             <summary>
@@ -26,7 +27,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://antleo.com/media/posts/10/cups-16-by-9_2-bw.png" alt="" />
+                    <p><img src="https://antleo.com/media/posts/10/cups-16-by-9_2-bw.png" class="type:primaryImage" alt="" /></p>
                 <h2>Contact (Error)</h2>
 <p>I'd love to hear from you! But something went wrong with your last form submission. Please try submiting the form again below.</p>
 <p> </p>
@@ -42,6 +43,7 @@
         </author>
         <link href="https://antleo.com/contact-3/"/>
         <id>https://antleo.com/contact-3/</id>
+        <media:content url="https://antleo.com/media/posts/11/cups-16-by-9_2-bw.png" medium="image" />
 
         <updated>2022-10-14T21:59:59+05:30</updated>
             <summary>
@@ -52,7 +54,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://antleo.com/media/posts/11/cups-16-by-9_2-bw.png" alt="" />
+                    <p><img src="https://antleo.com/media/posts/11/cups-16-by-9_2-bw.png" class="type:primaryImage" alt="" /></p>
                 <h2>Your message is on its way!</h2>
 <p>Thanks for writing in. If you've submitted a valid email address in your form, you can look forward to <a href="https://antleo.com/contact-2/">hearing back</a> from us soon!</p>
             ]]>
@@ -65,12 +67,13 @@
         </author>
         <link href="https://antleo.com/happy-new-year-2021/"/>
         <id>https://antleo.com/happy-new-year-2021/</id>
+        <media:content url="https://antleo.com/media/posts/9/Main-Image-570-by-200.png" medium="image" />
 
         <updated>2020-12-27T14:17:20+05:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://antleo.com/media/posts/9/Main-Image-570-by-200.png" alt="" />
+                    <p><img src="https://antleo.com/media/posts/9/Main-Image-570-by-200.png" class="type:primaryImage" alt="" /></p>
                 
   <p>
     
@@ -85,6 +88,7 @@
         </author>
         <link href="https://antleo.com/about/"/>
         <id>https://antleo.com/about/</id>
+        <media:content url="https://antleo.com/media/posts/7/Rubic-16-by-9_2-bw.png" medium="image" />
 
         <updated>2022-10-11T21:11:21+05:30</updated>
             <summary>
@@ -95,7 +99,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://antleo.com/media/posts/7/Rubic-16-by-9_2-bw.png" alt="" />
+                    <p><img src="https://antleo.com/media/posts/7/Rubic-16-by-9_2-bw.png" class="type:primaryImage" alt="" /></p>
                 <h2>About Us</h2>
 <p>Antleo is a niche branding and content development studio, specializing in thought leadership, content strategy, and visual branding. Named after the greek word (ἀντλέω: antleō) which means 'to draw' (e.g. water from a well), we are constantly drawing deep from the wells of creativity. <br><br>At Antleo, inexhaustibly passionate writers and designers are hard at work crafting impactful creatives that amplify brand impact for our clients.<br><br>The leitmotif of our communication artefacts is the masterful harmony of logic and creativity that arouses attention, interest, and desire, in both the hearts and the minds of even jaded audiences.</p>
             ]]>
@@ -108,6 +112,7 @@
         </author>
         <link href="https://antleo.com/values/"/>
         <id>https://antleo.com/values/</id>
+        <media:content url="https://antleo.com/media/posts/6/Pen-16-by-9_2-bw.png" medium="image" />
 
         <updated>2022-10-11T21:12:01+05:30</updated>
             <summary>
@@ -118,7 +123,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://antleo.com/media/posts/6/Pen-16-by-9_2-bw.png" alt="" />
+                    <p><img src="https://antleo.com/media/posts/6/Pen-16-by-9_2-bw.png" class="type:primaryImage" alt="" /></p>
                 <h2>Our Values</h2>
 <p><strong>quality:</strong> we keep pushing the boundaries in our march towards perfection <br><br><strong>serendipity:</strong> we seek serendipitous cross-disciplinary inspiration from the world around us<br><br><strong>simplicity:</strong> we believe that simplicity is the ultimate sophistication<br><br><strong>subtlety:</strong> we have discovered that what is subtle is often quite more effective than what is loud<br><br><strong>balance:</strong> we are creatively revitalized by the interplay between a balanced mind, spirit, and body, <br><br><strong>learning:</strong> we are constantly researching markets, industries, and consumer behaviour<br><br><strong>understanding:</strong> we take the time to understand our clients unique needs, in-depth<br><br><strong>fairness:</strong> we always operate with a win-win mindset</p>
             ]]>
@@ -131,6 +136,7 @@
         </author>
         <link href="https://antleo.com/bee-line-your-customers-with-personalization-customization-and-localization/"/>
         <id>https://antleo.com/bee-line-your-customers-with-personalization-customization-and-localization/</id>
+        <media:content url="https://antleo.com/media/posts/4/Blank-2.png" medium="image" />
             <category term="Blogs"/>
 
         <updated>2023-07-27T12:29:59+05:30</updated>
@@ -142,7 +148,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://antleo.com/media/posts/4/Blank-2.png" alt="" />
+                    <p><img src="https://antleo.com/media/posts/4/Blank-2.png" class="type:primaryImage" alt="" /></p>
                 <p>Consumers today are inundated with a barrage of promotions, advertisements, and information, and businesses face an uphill task in getting their message across. Sellers often find customers buzzing across into the open doors of wilier competitors. Three aspects of customer-centricity are helping businesses avoid this predicament.</p>
 <h2>Three facets of customer orientation</h2>
 <p>In the early ‘50s, retailers mailing out their promotional leaflets would often personalize them with hand-written names of the recipients – an example of personalization. Sometimes they would include material in their mail envelopes relevant to the addressee family demographic; farming implement brochures for farmers, fashion brochures for housewives, book brochures for the children – an example of customization. Further, some savvy retailers would take into account locality preferences for products, and send discount coupons or special offers for these products to customers within the given locality, and thereby drive demand further – an example of localization.</p>
@@ -175,6 +181,7 @@
         </author>
         <link href="https://antleo.com/services/"/>
         <id>https://antleo.com/services/</id>
+        <media:content url="https://antleo.com/media/posts/3/machine-16-by-9_2-bw-2.png" medium="image" />
 
         <updated>2023-05-22T16:04:17+05:30</updated>
             <summary>
@@ -185,7 +192,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://antleo.com/media/posts/3/machine-16-by-9_2-bw-2.png" alt="" />
+                    <p><img src="https://antleo.com/media/posts/3/machine-16-by-9_2-bw-2.png" class="type:primaryImage" alt="" /></p>
                 <h2>Our Services</h2>
 <p><strong>content:</strong> our core strength is crafting crisp, compelling content backed by in-depth research. Artifacts include thought leadership articles, case studies, whitepapers, and blog posts</p>
 <p><strong>creatives:</strong> we integrate design with carefully chosen words to create a memorable impact; our design expertise extends to print and online banners and advertisments, video and animation scripting and production, and branded gift items</p>
@@ -200,6 +207,7 @@
         </author>
         <link href="https://antleo.com/contact/"/>
         <id>https://antleo.com/contact/</id>
+        <media:content url="https://antleo.com/media/posts/2/cups-16-by-9_2-bw.png" medium="image" />
 
         <updated>2022-10-14T22:25:21+05:30</updated>
             <summary>
@@ -210,7 +218,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://antleo.com/media/posts/2/cups-16-by-9_2-bw.png" alt="" />
+                    <p><img src="https://antleo.com/media/posts/2/cups-16-by-9_2-bw.png" class="type:primaryImage" alt="" /></p>
                 <h2>Contact Us</h2>
 <p>We'd love to hear from you! Fill in the form below and click Send.</p>
 <p> </p>
