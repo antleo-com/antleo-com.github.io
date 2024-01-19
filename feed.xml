@@ -3,7 +3,7 @@
     <title>Antleo</title>
     <link href="https://antleo.com/feed.xml" rel="self" />
     <link href="https://antleo.com" />
-    <updated>2024-01-19T14:51:08+05:30</updated>
+    <updated>2024-01-19T15:00:32+05:30</updated>
     <author>
         <name>Antleo</name>
     </author>
@@ -209,11 +209,11 @@
         <id>https://antleo.com/contact/</id>
         <media:content url="https://antleo.com/media/posts/2/cups-16-by-9_2-bw.png" medium="image" />
 
-        <updated>2024-01-19T14:51:08+05:30</updated>
+        <updated>2024-01-19T15:00:32+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://antleo.com/media/posts/2/cups-16-by-9_2-bw.png" alt="" />
-                    Contact Us We'd love to hear from you! Fill in the form below and click Send.
+                    Contact Us We'd love to hear from you! Fill in the form below and click Send. (function() { try{ var f = document.createElement("iframe"); f.src = 'https://forms.zohopublic.in/antleoconsulting/form/Contact/formperma/xVMFuMq6jKdGjGWaRfzHZsHrcjCJT5ybJLgF1iYv3NQ?zf_rszfm=1'; f.style.border="none"; f.style.height="899px"; f.style.width="90%"; f.style.transition="all 0.5s ease"; f.setAttribute("aria-label", 'Contact'); var d = document.getElementById("zf_div_xVMFuMq6jKdGjGWaRfzHZsHrcjCJT5ybJLgF1iYv3NQ"); d.appendChild(f); window.addEventListener('message', function (){ var evntData = event.data; if( evntData && evntData.constructor == String ){ var zf_ifrm_data = evntData.split("|"); if ( zf_ifrm_data.length == 2 ) { var zf_perma = zf_ifrm_data[0]; var zf_ifrm_ht_nw = ( parseInt(zf_ifrm_data[1], 10) + 15 ) + "px"; var iframe = document.getElementById("zf_div_xVMFuMq6jKdGjGWaRfzHZsHrcjCJT5ybJLgF1iYv3NQ").getElementsByTagName("iframe")[0]; if ( (iframe.src).indexOf('formperma') > 0 && (iframe.src).indexOf(zf_perma) > 0 ) { var prevIframeHeight = iframe.style.height; if ( prevIframeHeight&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -221,7 +221,40 @@
                     <p><img src="https://antleo.com/media/posts/2/cups-16-by-9_2-bw.png" class="type:primaryImage" alt="" /></p>
                 <h2>Contact Us</h2>
 <p>We'd love to hear from you! Fill in the form below and click Send.</p>
-<div class="post__iframe"><iframe loading="lazy" style="height: 500px; width: 99%; border: none;" aria-label="Contact" frameborder="0" src="https://forms.zohopublic.in/antleoconsulting/form/Contact/formperma/xVMFuMq6jKdGjGWaRfzHZsHrcjCJT5ybJLgF1iYv3NQ"></iframe></div>
+<div id="zf_div_xVMFuMq6jKdGjGWaRfzHZsHrcjCJT5ybJLgF1iYv3NQ"></div>
+<p>
+<script type="text/javascript">(function() {
+try{
+var f = document.createElement("iframe");
+f.src = 'https://forms.zohopublic.in/antleoconsulting/form/Contact/formperma/xVMFuMq6jKdGjGWaRfzHZsHrcjCJT5ybJLgF1iYv3NQ?zf_rszfm=1';
+f.style.border="none";
+f.style.height="899px";
+f.style.width="90%";
+f.style.transition="all 0.5s ease";
+f.setAttribute("aria-label", 'Contact');
+
+var d = document.getElementById("zf_div_xVMFuMq6jKdGjGWaRfzHZsHrcjCJT5ybJLgF1iYv3NQ");
+d.appendChild(f);
+window.addEventListener('message', function (){
+var evntData = event.data;
+if( evntData && evntData.constructor == String ){
+var zf_ifrm_data = evntData.split("|");
+if ( zf_ifrm_data.length == 2 ) {
+var zf_perma = zf_ifrm_data[0];
+var zf_ifrm_ht_nw = ( parseInt(zf_ifrm_data[1], 10) + 15 ) + "px";
+var iframe = document.getElementById("zf_div_xVMFuMq6jKdGjGWaRfzHZsHrcjCJT5ybJLgF1iYv3NQ").getElementsByTagName("iframe")[0];
+if ( (iframe.src).indexOf('formperma') > 0 && (iframe.src).indexOf(zf_perma) > 0 ) {
+var prevIframeHeight = iframe.style.height;
+if ( prevIframeHeight != zf_ifrm_ht_nw ) {
+iframe.style.height = zf_ifrm_ht_nw;
+}
+}
+}
+}
+}, false);
+}catch(e){}
+})();</script>
+</p>
             ]]>
         </content>
     </entry>
